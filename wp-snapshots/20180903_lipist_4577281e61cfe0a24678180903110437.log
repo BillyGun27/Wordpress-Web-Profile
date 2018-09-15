@@ -1,0 +1,79 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: September 3, 2018 11:05 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.42
+WORDPRESS:	4.9.8
+PHP INFO:	7.0.13 | SAPI: apache2handler
+SERVER:		Apache/2.4.23 (Win64) PHP/7.0.13 OpenSSL/1.0.2j 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (400M default) 
+MEMORY STACK: 20MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:90 | filtered:0 | create:90 
+FILTERED: [] 
+SQL CREATED: 20180903_lipist_4577281e61cfe0a24678180903110437_database.sql 
+SQL FILE SIZE: 1.98MB (2079126) 
+SQL FILE TIME: 2018-09-03 11:05:19 
+SQL RUNTIME: 3.70 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  D:/WebPages/lipist 
+ARCHIVE FILE: 20180903_lipist_4577281e61cfe0a24678180903110437_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	48.53MB 
+STATS:	Dirs 351 | Files 2,374 
+SQL ADDED: 20180903_lipist_4577281e61cfe0a24678180903110437_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2725
+    [filename] => D:\WebPages\lipist\wp-snapshots\tmp\20180903_lipist_4577281e61cfe0a24678180903110437_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 20.66MB 
+ARCHIVE RUNTIME: 28.47 sec. 
+MEMORY STACK: 22MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [D:/WebPages/lipist/wp-snapshots/tmp/20180903_lipist_4577281e61cfe0a24678180903110437_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 1.98MB 
+Installer File: 472.43KB 
+Archive File: 20.66MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 33.06 sec.
+PEAK PHP MEMORY USED: 22MB
+DONE PROCESSING => 20180903_lipist September 3, 2018 11:05 am
+ 
